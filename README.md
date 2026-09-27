@@ -1,1 +1,9 @@
-# steel_ball_run_jojo_s_bizarre_adventure
+# Steel Ball Run: JoJo's Bizarre Adventure (2026) Türkçe Çeviri
+
+## Çeviri Ekibi
+
+| Görev | İsim |
+|---|---|
+| **Çevirmen** | --- |
+| **Editör** | --- |
+| **Son Kontrol** | --- |
