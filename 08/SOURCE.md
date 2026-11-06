@@ -1,0 +1,1 @@
+# https://cdn.discordapp.com/attachments/1555641876210786335/1568257123295436870/Trix_JoJos_Bizarre_Adventure_2012_S06E08_WEB-DL_1080p_AV1_AAC_Tri_Audio_Multi_Subs.mkv.torrent?ex=6aef28c3&is=6aedd743&hm=58ea7869df4064337e6a3e51d24ef8bb9e1970eb5731725bfdd1d0b6a944eceb&
