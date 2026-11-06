@@ -1,0 +1,355 @@
+[Script Info]
+Title: The-Lumina-Company - Steel Ball Run: JoJo's Bizarre Adventure
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lumina,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:34.70,0:00:36.70,Default,,0,0,0,,{\an4\fnLT Comical\fscx95\fscy95\bord2.2\shad2.2\blur0.6\3c&H000000&\4c&H000000&\pos(40,520)}{\c&HFF901E&}Çeviri: {\c&HFFFFFF&}Plopy, SECTOSS{\fscy34.5}\N{\fscy95\c&HFF901E&}Redaksiyon: {\c&HFFFFFF&}Plopy{\fscy34.5}\N{\fscy95\c&HFF901E&}Encode: {\c&HFFFFFF&}shxd.{\fscy34.5}\N{\fscy95\c&HFF901E&}Upload: {\c&HFFFFFF&}shxd.{\fscy34.5}\N{\fscx76.5\fscy76.5\c&HAAAAAA&\b0}discord.gg/luminaceviri{\b1}
+Dialogue: 0,0:00:34.70,0:00:36.70,Default,,0,0,0,,STEEL BALL RUN\NJOJO'S BIZARRE ADVENTURE
+Dialogue: 0,0:01:52.24,0:01:54.41,Default,,0,0,0,,Bu şey de ne?
+Dialogue: 0,0:01:54.49,0:01:56.49,Default,,0,0,0,,#08 BÖLÜM\NTUSK, 2. KISIM
+Dialogue: 0,0:02:20.22,0:02:23.77,Default,,0,0,0,,Ayak tırnaklarım… ateş ettiler…
+Dialogue: 0,0:02:23.85,0:02:26.10,Default,,0,0,0,,Felçli ayaklarımdan…
+Dialogue: 0,0:02:26.65,0:02:29.19,Default,,0,0,0,,Tırnaklarım ateş etti!
+Dialogue: 0,0:02:31.40,0:02:34.53,Default,,0,0,0,,Bu şey yüzünden mi oluyor bu?
+Dialogue: 0,0:02:34.61,0:02:38.91,Default,,0,0,0,,N'oluyor lan?\NHayatımı mı kurtardı bu?
+Dialogue: 0,0:02:42.79,0:02:44.83,Default,,0,0,0,,Nesin be sen?
+Dialogue: 0,0:02:53.34,0:02:55.68,Default,,0,0,0,,Koluma geri girdi!
+Dialogue: 0,0:02:56.38,0:02:57.59,Default,,0,0,0,,Bir şey yazıyor.
+Dialogue: 0,0:02:58.39,0:02:59.93,Default,,0,0,0,,Bu da ne?
+Dialogue: 0,0:03:02.31,0:03:04.14,Default,,0,0,0,,Bu şeyin kendi bilinci var.
+Dialogue: 0,0:03:04.98,0:03:06.90,Default,,0,0,0,,Harbi var!
+Dialogue: 0,0:03:07.69,0:03:11.69,Default,,0,0,0,,Ayaklarım şu an hareket etmiyor ama\Ntırnaklarım ateş ettiğinde ediyorlardı!
+Dialogue: 0,0:03:11.77,0:03:14.82,Default,,0,0,0,,Bu şey içimdeki bir şeyi falan mı uyandırdı?
+Dialogue: 0,0:03:14.90,0:03:16.15,Default,,0,0,0,,Az önceki şey…
+Dialogue: 0,0:03:16.24,0:03:19.62,Default,,0,0,0,,Bu harfler… İngilizce değil bu.
+Dialogue: 0,0:03:19.70,0:03:21.91,Default,,0,0,0,,Tüm bunlar hiç mantıklı değil.
+Dialogue: 0,0:03:22.95,0:03:26.21,Default,,0,0,0,,Teröristlerin amacı…\NGyro'nun memleketi…
+Dialogue: 0,0:03:26.75,0:03:27.87,Default,,0,0,0,,Ve…
+Dialogue: 0,0:03:28.71,0:03:32.09,Default,,0,0,0,,Peki bu şey, neden bana bağlandı?
+Dialogue: 0,0:03:35.84,0:03:39.14,Default,,0,0,0,,Dahası olmalı…\NSadece sol kol olamaz.
+Dialogue: 0,0:03:40.09,0:03:43.60,Default,,0,0,0,,Mumyalanmış …
+Dialogue: 0,0:03:44.10,0:03:46.18,Default,,0,0,0,,Bir araya geldiklerinde bütün bir\Nvücudu oluşturuyor olmalılar!
+Dialogue: 0,0:03:47.02,0:03:51.65,Default,,0,0,0,,Kıta boyunca birinin ceset parçaları gömülü.
+Dialogue: 0,0:03:52.73,0:03:55.19,Default,,0,0,0,,Teröristler bunun peşinde olmalı!
+Dialogue: 0,0:03:55.28,0:03:58.49,Default,,0,0,0,,Steel Ball Yarışı'nı bu parçaları bulmak için kullanıyorlar!
+Dialogue: 0,0:03:59.07,0:04:02.91,Default,,0,0,0,,Hepsini alabilirsem
+Dialogue: 0,0:04:02.99,0:04:05.95,Default,,0,0,0,,daha da güçleneceğim.
+Dialogue: 0,0:04:08.67,0:04:11.96,Default,,0,0,0,,Bu Gyro'nun Çelik Topu.
+Dialogue: 0,0:04:16.84,0:04:19.05,Default,,0,0,0,,Siktir!
+Dialogue: 0,0:04:19.13,0:04:21.51,Default,,0,0,0,,Bir, iki…
+Dialogue: 0,0:04:22.85,0:04:24.43,Default,,0,0,0,,Üç!
+Dialogue: 0,0:04:25.39,0:04:29.94,Default,,0,0,0,,Ce-ebeninki! Üç dişimi de kırdı lan!
+Dialogue: 0,0:04:32.15,0:04:34.40,Default,,0,0,0,,Acaba diş lezzetli midir?
+Dialogue: 0,0:04:34.48,0:04:36.94,Default,,0,0,0,,Sanırım yenilinen bir şey değil.
+Dialogue: 0,0:04:37.03,0:04:39.95,Default,,0,0,0,,Sikeyim be!\NBu kadar güçlü olduğunu bilmiyordum.
+Dialogue: 0,0:04:40.03,0:04:42.41,Default,,0,0,0,,Lavuk… Neydi lan adı?
+Dialogue: 0,0:04:42.49,0:04:44.95,Default,,0,0,0,,Coni Coştur.
+Dialogue: 0,0:04:45.03,0:04:48.79,Default,,0,0,0,,Ama artık nerede olduğunu biliyorum.
+Dialogue: 0,0:04:48.87,0:04:51.25,Default,,0,0,0,,Sol kolunda.
+Dialogue: 0,0:04:51.33,0:04:54.59,Default,,0,0,0,,Taşımıyormuş ki! İçindeymiş.
+Dialogue: 0,0:04:54.67,0:04:58.17,Default,,0,0,0,,Ceset, Coni Coştur'un kolunda.
+Dialogue: 0,0:04:58.26,0:05:01.88,Default,,0,0,0,,Böylece araştırmamın sonuna gelmiş oluyoruz.
+Dialogue: 0,0:05:01.97,0:05:06.72,Default,,0,0,0,,Coni Coştur'u öldürüp alabilirim artık!
+Dialogue: 0,0:05:09.35,0:05:12.19,Default,,0,0,0,,Nereye gitti lan bu piç?
+Dialogue: 0,0:05:12.27,0:05:13.56,Default,,0,0,0,,Bu garip
+Dialogue: 0,0:05:14.40,0:05:17.07,Default,,0,0,0,,Gitmiş!
+Dialogue: 0,0:05:23.11,0:05:26.83,Default,,0,0,0,,Nasıl lan? Nereye gitti bu?
+Dialogue: 0,0:05:26.91,0:05:31.00,Default,,0,0,0,,Yok daha neler. Koşmuş olsa bile yeterince uzaklaşamaz.
+Dialogue: 0,0:05:37.84,0:05:41.47,Default,,0,0,0,,Hey, moruk. Uyandın mı lan yoksa?
+Dialogue: 0,0:05:48.60,0:05:51.02,Default,,0,0,0,,Bacağınla mı yaptın lan?
+Dialogue: 0,0:05:51.98,0:05:53.02,Default,,0,0,0,,Ce-ee?
+Dialogue: 0,0:05:53.10,0:05:54.81,Default,,0,0,0,,Karmaşa sırasında
+Dialogue: 0,0:05:55.40,0:05:59.48,Default,,0,0,0,,yerdeki Çelik Topu Coştur'a ittirdin demek.
+Dialogue: 0,0:05:59.98,0:06:01.40,Default,,0,0,0,,Öyleyse…
+Dialogue: 0,0:06:01.49,0:06:03.57,Default,,0,0,0,,İşte şimdi ilginçleşmeye başladı!
+Dialogue: 0,0:06:03.65,0:06:05.36,Default,,0,0,0,,Şimdi, iki ihtimal var.
+Dialogue: 0,0:06:05.45,0:06:10.54,Default,,0,0,0,,Ya o dalgalar, Coştur'u kaçması için yönlendiriyordu
+Dialogue: 0,0:06:10.62,0:06:16.54,Default,,0,0,0,,yada ona bu yöne gelmesi için.
+Dialogue: 0,0:06:16.63,0:06:18.75,Default,,0,0,0,,Gerçekten ilginç birisin.
+Dialogue: 0,0:06:18.84,0:06:21.55,Default,,0,0,0,,Yaşamana izin vereceğim, Gyro Zeppeli.
+Dialogue: 0,0:06:21.63,0:06:26.09,Default,,0,0,0,,En azından Coni Coştur'u bulana kadar!
+Dialogue: 0,0:06:48.20,0:06:49.58,Default,,0,0,0,,Siktir be!
+Dialogue: 0,0:06:49.66,0:06:52.45,Default,,0,0,0,,Hiçbir yerde yok! Hiçbir yerde!
+Dialogue: 0,0:06:54.62,0:06:55.87,Default,,0,0,0,,Ce-eee!
+Dialogue: 0,0:06:56.42,0:07:00.17,Default,,0,0,0,,Bu çok ilginç ama nasıl oluyor bilmiyorum açıkçası!
+Dialogue: 0,0:07:00.25,0:07:03.59,Default,,0,0,0,,Yer altına falan mı girdi?
+Dialogue: 0,0:07:03.67,0:07:07.05,Default,,0,0,0,,Tek bildiğim burada bir yerde olduğu...
+Dialogue: 0,0:07:09.93,0:07:11.97,Default,,0,0,0,,Şap şap! Lanet olasıca!
+Dialogue: 0,0:07:12.56,0:07:16.19,Default,,0,0,0,,Neredesin lan Coştur?
+Dialogue: 0,0:07:18.98,0:07:20.31,Default,,0,0,0,,Tam düşündüğüm gibi.
+Dialogue: 0,0:07:20.82,0:07:24.94,Default,,0,0,0,,Sadece yukarıdan görüp saldırabiliyor.
+Dialogue: 0,0:07:25.61,0:07:27.70,Default,,0,0,0,,Beni kaybetmiş olması lazım.
+Dialogue: 0,0:07:28.53,0:07:31.87,Default,,0,0,0,,Ama bir şey netleşmiş oldu
+Dialogue: 0,0:07:31.95,0:07:34.62,Default,,0,0,0,,Gyro kim yada nereli olursa olsun
+Dialogue: 0,0:07:34.70,0:07:37.42,Default,,0,0,0,,o iyi biri.
+Dialogue: 0,0:07:38.17,0:07:41.92,Default,,0,0,0,,Çelik Topu kullanarak bana düşmanın yerini gösterdi.
+Dialogue: 0,0:07:42.00,0:07:44.46,Default,,0,0,0,,Bunun için elinden gelen her şeyi yapmış olmalı!
+Dialogue: 0,0:07:44.96,0:07:47.30,Default,,0,0,0,,Bunu kaçmak için bile kullanabilirim.
+Dialogue: 0,0:07:48.38,0:07:52.01,Default,,0,0,0,,Ama cesetten vazgeçmeyeceğim!
+Dialogue: 0,0:07:52.89,0:07:54.60,Default,,0,0,0,,Bu ceset...
+Dialogue: 0,0:07:54.68,0:07:58.94,Default,,0,0,0,,Ve Gyro bana umudumu kestiğim geleceğe dair umut oldu!
+Dialogue: 0,0:07:59.44,0:08:01.98,Default,,0,0,0,,Nerede olduğunu biliyorum, Gyro!
+Dialogue: 0,0:08:02.06,0:08:04.28,Default,,0,0,0,,Kayalıklara doğru geliyorum!
+Dialogue: 0,0:08:09.74,0:08:11.45,Default,,0,0,0,,Slow Dancer!
+Dialogue: 0,0:08:16.75,0:08:18.58,Default,,0,0,0,,Al bakalım!
+Dialogue: 0,0:08:18.66,0:08:21.67,Default,,0,0,0,,Geri veriyorum sana, Coştur!
+Dialogue: 0,0:08:21.75,0:08:24.67,Default,,0,0,0,,Atını geri alabilirsin.
+Dialogue: 0,0:08:25.84,0:08:27.01,Default,,0,0,0,,Ce-eee!
+Dialogue: 0,0:08:27.09,0:08:29.05,Default,,0,0,0,,Atlar zeki hayvanlardır.\NBazı şeylerin farkındadırlar.
+Dialogue: 0,0:08:29.13,0:08:30.72,Default,,0,0,0,,Kokunu veya sesini alırsa.
+Dialogue: 0,0:08:30.80,0:08:34.97,Default,,0,0,0,,Belki sahibine dönmek falan ister, ha?
+Dialogue: 0,0:08:35.72,0:08:39.31,Default,,0,0,0,,Bu iyi olmadı.\NSlow Dancer beni arıyor.
+Dialogue: 0,0:08:44.27,0:08:47.03,Default,,0,0,0,,Bak sen şuna.\NBulabildin mi canım?
+Dialogue: 0,0:08:50.15,0:08:53.53,Default,,0,0,0,,Lan hayır, Slow Dancer!\NLütfen, başka yere git!
+Dialogue: 0,0:08:56.91,0:08:59.33,Default,,0,0,0,,Bu ne lan? Şey gibi kokuyor…
+Dialogue: 0,0:09:05.04,0:09:06.92,Default,,0,0,0,,Ne?
+Dialogue: 0,0:09:09.13,0:09:10.97,Default,,0,0,0,,Yerdeymişsin demek!
+Dialogue: 0,0:09:11.05,0:09:13.97,Default,,0,0,0,,Çık şuradan da göster kendini lan.
+Dialogue: 0,0:09:14.05,0:09:18.10,Default,,0,0,0,,Nar gibi kızar da seni kancalarımla parça pinçik edeyim!
+Dialogue: 0,0:09:18.18,0:09:21.31,Default,,0,0,0,,Tabii, kolun yanmasını istemeyiz!
+Dialogue: 0,0:09:25.40,0:09:27.11,Default,,0,0,0,,İşte buradasın!
+Dialogue: 0,0:09:28.32,0:09:32.15,Default,,0,0,0,,İşin bitti! Al sana, Coştur!
+Dialogue: 0,0:09:37.16,0:09:38.41,Default,,0,0,0,,Ahşap mı?
+Dialogue: 0,0:09:40.25,0:09:41.96,Default,,0,0,0,,Çürük bir kütükten yaptım.
+Dialogue: 0,0:09:43.21,0:09:47.17,Default,,0,0,0,,Bu bir tırnaktan fazlası.\NBu şey daha çok diş gibi.
+Dialogue: 0,0:09:47.92,0:09:50.17,Default,,0,0,0,,Bundan sonra buna Tusk, 'Fil Dişi' diyeceğim!
+Dialogue: 0,0:10:08.23,0:10:10.86,Default,,0,0,0,,Başardım. Gerçekten başardım!
+Dialogue: 0,0:10:11.86,0:10:13.61,Default,,0,0,0,,Herkes varken ben...
+Dialogue: 0,0:10:24.75,0:10:25.88,Default,,0,0,0,,Gyro…
+Dialogue: 0,0:10:26.46,0:10:29.21,Default,,0,0,0,,Gyro? O iyi mi?
+Dialogue: 0,0:10:30.25,0:10:32.72,Default,,0,0,0,,Steel Ball Yarışı'nda
+Dialogue: 0,0:10:32.80,0:10:35.13,Default,,0,0,0,,ne diğer yarışmacılara, ne Steven Steel'a,
+Dialogue: 0,0:10:35.22,0:10:38.18,Default,,0,0,0,,ne de sponsorlara… kimseye güvenemem.
+Dialogue: 0,0:10:38.76,0:10:40.06,Default,,0,0,0,,Gyro hariç.
+Dialogue: 0,0:10:40.60,0:10:42.68,Default,,0,0,0,,Güvenebilceğim tek kişi o.
+Dialogue: 0,0:10:42.77,0:10:45.10,Default,,0,0,0,,Ceset hakkındaki düşüncelerini merak ediyorum.
+Dialogue: 0,0:10:45.73,0:10:48.23,Default,,0,0,0,,Nefes alıyor musun, Gyro?
+Dialogue: 0,0:10:48.31,0:10:49.77,Default,,0,0,0,,Uyan!
+Dialogue: 0,0:10:49.86,0:10:52.15,Default,,0,0,0,,Şu iplikleri nereye koyduydun?
+Dialogue: 0,0:10:52.23,0:10:53.44,Default,,0,0,0,,İpliklerin nerede?
+Dialogue: 0,0:11:00.99,0:11:02.58,Default,,0,0,0,,Ne?
+Dialogue: 0,0:11:02.66,0:11:04.62,Default,,0,0,0,,Yakaladım!
+Dialogue: 0,0:11:04.71,0:11:07.96,Default,,0,0,0,,Oltaya geldin, Coştur!
+Dialogue: 0,0:11:08.04,0:11:11.30,Default,,0,0,0,,Gyro'yu yem olarak kullandım!
+Dialogue: 0,0:11:13.30,0:11:14.97,Default,,0,0,0,,Ce-öğğğ!
+Dialogue: 0,0:11:16.47,0:11:18.80,Default,,0,0,0,,Bu yüzden Gyro'yu hayatta tutuyordum!
+Dialogue: 0,0:11:18.89,0:11:21.35,Default,,0,0,0,,Seni zayıf, acınası sıçan!
+Dialogue: 0,0:11:22.77,0:11:24.27,Default,,0,0,0,,-Johnny?\N-Gyro!
+Dialogue: 0,0:11:24.35,0:11:28.23,Default,,0,0,0,,Görünüşe bakılırsa ben kazandım, Coştur!
+Dialogue: 0,0:11:28.31,0:11:31.32,Default,,0,0,0,,Gyro'dan geç ve hemen buraya gel!
+Dialogue: 0,0:11:33.98,0:11:35.40,Default,,0,0,0,,Artık yapacaklarınız işe yaramaz!
+Dialogue: 0,0:11:35.49,0:11:38.57,Default,,0,0,0,,Paşa paşa sol kolundaki cesedi vereceksin!
+Dialogue: 0,0:11:38.66,0:11:41.87,Default,,0,0,0,,Biliyordum. En başından beri sendin.
+Dialogue: 0,0:11:41.95,0:11:43.83,Default,,0,0,0,,Hemen ver!
+Dialogue: 0,0:11:43.91,0:11:46.29,Default,,0,0,0,,Yoksa şu kayaların,
+Dialogue: 0,0:11:46.37,0:11:50.13,Default,,0,0,0,,Gyro'nun pekmezini çıkarmasını mı istiyorsun?
+Dialogue: 0,0:11:58.80,0:11:59.97,Default,,0,0,0,,Gyro!
+Dialogue: 0,0:12:01.10,0:12:03.47,Default,,0,0,0,,Ce-öööö, ce-öğğğ.
+Dialogue: 0,0:12:04.68,0:12:07.98,Default,,0,0,0,,Sık lan bir daha! Gyro'yu delik deşik et!
+Dialogue: 0,0:12:08.06,0:12:10.02,Default,,0,0,0,,Piç seni!
+Dialogue: 0,0:12:11.65,0:12:12.65,Default,,0,0,0,,Gyro!
+Dialogue: 0,0:12:12.73,0:12:14.94,Default,,0,0,0,,Hiç bir sikim yapamazsın artık!
+Dialogue: 0,0:12:15.03,0:12:17.95,Default,,0,0,0,,Ver artık şu cesedi!
+Dialogue: 0,0:12:18.03,0:12:19.32,Default,,0,0,0,,Ceset mi?
+Dialogue: 0,0:12:19.86,0:12:22.83,Default,,0,0,0,,Johnny, ne cesedi?
+Dialogue: 0,0:12:24.20,0:12:27.37,Default,,0,0,0,,Vazgeçmek istemiyorum.\Nİstemiyorum.
+Dialogue: 0,0:12:27.87,0:12:30.00,Default,,0,0,0,,Sol kolumdaki şeyden…
+Dialogue: 0,0:12:30.96,0:12:33.75,Default,,0,0,0,,Bacaklarım hareket edebiliyorken...
+Dialogue: 0,0:12:33.84,0:12:35.84,Default,,0,0,0,,Gyro. Gördün, di'mi?
+Dialogue: 0,0:12:36.34,0:12:39.80,Default,,0,0,0,,Bacaklarım… Hareket edebiliyorlardı.
+Dialogue: 0,0:12:42.68,0:12:44.43,Default,,0,0,0,,Ben, memnunum.
+Dialogue: 0,0:12:45.31,0:12:48.06,Default,,0,0,0,,Bu yarışa katıldığıma...
+Dialogue: 0,0:12:48.93,0:12:54.15,Default,,0,0,0,,Bu sol kol, sonunda beni pişman\Nolmadan ölebilirmişim gibi hissettiriyor.
+Dialogue: 0,0:12:54.90,0:12:56.73,Default,,0,0,0,,Bundan vazgeçmek istemiyorum.
+Dialogue: 0,0:12:56.82,0:13:02.03,Default,,0,0,0,,Benim gibi değersiz biri sonunda\Nyaşamak için bir neden buldu.
+Dialogue: 0,0:13:02.57,0:13:04.45,Default,,0,0,0,,Gerçekten memnunum.
+Dialogue: 0,0:13:07.87,0:13:10.96,Default,,0,0,0,,Bunu buraya kadar yanında mı taşıdın?
+Dialogue: 0,0:13:11.04,0:13:13.63,Default,,0,0,0,,Ver artık be!
+Dialogue: 0,0:13:13.71,0:13:18.21,Default,,0,0,0,,O zaman bana da bunun işini bitirmek düşüyor.
+Dialogue: 0,0:13:18.30,0:13:20.26,Default,,0,0,0,,Ne zırvalıyorsun lan sen?
+Dialogue: 0,0:13:20.34,0:13:24.68,Default,,0,0,0,,Gyro'dan geç ve buraya gel lan, Coştur!
+Dialogue: 0,0:13:27.81,0:13:30.39,Default,,0,0,0,,Yetti lan artık!
+Dialogue: 0,0:13:30.48,0:13:34.73,Default,,0,0,0,,Gyro'yu kendin gebertmiş ol!
+Dialogue: 0,0:13:38.65,0:13:40.40,Default,,0,0,0,,Çıkarıyor musun?
+Dialogue: 0,0:13:43.91,0:13:46.41,Default,,0,0,0,,Yeter… alabilirsin, tamam.
+Dialogue: 0,0:13:47.28,0:13:51.58,Default,,0,0,0,,Ama önce lütfen Gyro'dan kancaları çek.
+Dialogue: 0,0:13:51.66,0:13:54.83,Default,,0,0,0,,Yoksa bunu
+Dialogue: 0,0:13:54.92,0:13:57.59,Default,,0,0,0,,kednim yok ederim.
+Dialogue: 0,0:13:57.67,0:13:59.26,Default,,0,0,0,,Yapma, dur!
+Dialogue: 0,0:14:02.68,0:14:04.18,Default,,0,0,0,,Evet!
+Dialogue: 0,0:14:04.76,0:14:06.60,Default,,0,0,0,,Demek meşhur ceset buymuş.
+Dialogue: 0,0:14:06.68,0:14:10.10,Default,,0,0,0,,İnsanlar neden bunun peşinde anlamıyorum doğrusu.
+Dialogue: 0,0:14:10.85,0:14:12.77,Default,,0,0,0,,Artık, ben de yenilmezim.
+Dialogue: 0,0:14:12.85,0:14:15.81,Default,,0,0,0,,Bu benim yenilmez ve dahi olduğumun kanıtı!
+Dialogue: 0,0:14:15.90,0:14:17.65,Default,,0,0,0,,Artık herkes beni tanıyacak!
+Dialogue: 0,0:14:17.73,0:14:21.57,Default,,0,0,0,,İşte şimdi yükselip zirveye yerleşebilirim!
+Dialogue: 0,0:14:25.20,0:14:28.41,Default,,0,0,0,,Tırnaklarım, dönmeyi kestiler…
+Dialogue: 0,0:14:28.49,0:14:30.08,Default,,0,0,0,,Artık döndüremiyorum.
+Dialogue: 0,0:14:30.66,0:14:33.87,Default,,0,0,0,,Yeteneğim, kaybolmuş.
+Dialogue: 0,0:14:36.67,0:14:38.17,Default,,0,0,0,,Sonunda aldım!
+Dialogue: 0,0:14:38.25,0:14:40.50,Default,,0,0,0,,Şimdi geriye kalan tek şey ikinizin gebermesi!
+Dialogue: 0,0:14:40.59,0:14:44.09,Default,,0,0,0,,Gyro'dan kancaları henüz çekmemiştim!
+Dialogue: 0,0:14:44.17,0:14:46.80,Default,,0,0,0,,Tırnakların dönmüyor mu?
+Dialogue: 0,0:14:46.89,0:14:50.22,Default,,0,0,0,,Johnny. Dönüyorlar ya işte.
+Dialogue: 0,0:14:50.31,0:14:51.85,Default,,0,0,0,,Hâlâ dönüyorlar.
+Dialogue: 0,0:14:55.14,0:14:59.61,Default,,0,0,0,,Ben döndürdüm hatta. Şu…
+Dialogue: 0,0:15:01.69,0:15:03.57,Default,,0,0,0,,Cesedin tırnakları!
+Dialogue: 0,0:15:08.16,0:15:09.20,Default,,0,0,0,,Sana demiştim.
+Dialogue: 0,0:15:10.08,0:15:12.54,Default,,0,0,0,,İşini bitirmek bana düştü, demiştim.
+Dialogue: 0,0:15:31.22,0:15:32.18,Default,,0,0,0,,Al bakayım.
+Dialogue: 0,0:15:33.77,0:15:36.10,Default,,0,0,0,,Bana geri mi veriyorsun?
+Dialogue: 0,0:15:36.64,0:15:39.61,Default,,0,0,0,,Gerçekten de bilmiyor musun?
+Dialogue: 0,0:15:39.69,0:15:44.78,Default,,0,0,0,,Harbiden bu yarışa ceset için katılmadın mı?
+Dialogue: 0,0:15:45.36,0:15:46.78,Default,,0,0,0,,Beni bağlamaz ya.
+Dialogue: 0,0:15:46.86,0:15:49.11,Default,,0,0,0,,Şey, belki biraz.
+Dialogue: 0,0:15:49.20,0:15:51.28,Default,,0,0,0,,Ehh, yok ya.
+Dialogue: 0,0:15:51.37,0:15:54.50,Default,,0,0,0,,Amacım bu yarışı birinci bitirmek.
+Dialogue: 0,0:15:54.58,0:15:55.96,Default,,0,0,0,,Ve sonra şey...
+Dialogue: 0,0:16:00.67,0:16:03.21,Default,,0,0,0,,Aslında neler olduğunu anlamaya başladım.
+Dialogue: 0,0:16:03.30,0:16:05.01,Default,,0,0,0,,Görünüşe göre o teröristler
+Dialogue: 0,0:16:05.09,0:16:08.55,Default,,0,0,0,,cesedin bende olduğunu düşünüyor.
+Dialogue: 0,0:16:08.63,0:16:12.89,Default,,0,0,0,,Tek parça bu değil.\N Diğer parçalar etrafa dağılmış.
+Dialogue: 0,0:16:13.39,0:16:17.02,Default,,0,0,0,,Steel Ball Yarışı'nı kullanarak toplamaya çalışıyorlar.
+Dialogue: 0,0:16:17.60,0:16:18.60,Default,,0,0,0,,Ama neden?
+Dialogue: 0,0:16:18.69,0:16:21.65,Default,,0,0,0,,Yalnızca bu kol bile bana bu kadar gücü verdi.
+Dialogue: 0,0:16:21.73,0:16:27.24,Default,,0,0,0,,Geri kalanının daha çok güç vereceğini düşünmek mantıklı değil mi?
+Dialogue: 0,0:16:27.32,0:16:30.70,Default,,0,0,0,,Hadi ama. Bu kıta ne kadar büyük biliyor musun?
+Dialogue: 0,0:16:30.78,0:16:32.32,Default,,0,0,0,,Onları nasıl bulacaksın?
+Dialogue: 0,0:16:32.41,0:16:37.04,Default,,0,0,0,,Ya beni seçtiği gibi gideceği kişiyi kendi seçiyorsa...
+Dialogue: 0,0:16:37.62,0:16:40.25,Default,,0,0,0,,Cesedin bir iradesi olduğu şüphesiz.
+Dialogue: 0,0:16:40.33,0:16:41.88,Default,,0,0,0,,Anladım.
+Dialogue: 0,0:16:41.96,0:16:44.13,Default,,0,0,0,,Binlerce yarışmacı var.
+Dialogue: 0,0:16:44.21,0:16:46.55,Default,,0,0,0,,Herkes şansını deniyor.
+Dialogue: 0,0:16:46.63,0:16:50.22,Default,,0,0,0,,Gyro, cesedi senden sakladığım için üzgünüm
+Dialogue: 0,0:16:50.30,0:16:51.93,Default,,0,0,0,,ama ne düşündüğünü merak ediyorum.
+Dialogue: 0,0:16:52.01,0:16:55.51,Default,,0,0,0,,Ne düşünüyorsun? Sence kimin cesedi?
+Dialogue: 0,0:16:55.60,0:17:00.19,Default,,0,0,0,,Orada bir dur bakalım. \NGeri kalanını toplamayı kafana koydun mu bile?
+Dialogue: 0,0:17:00.77,0:17:03.19,Default,,0,0,0,,Evet. Kararımı verdim.
+Dialogue: 0,0:17:03.27,0:17:06.86,Default,,0,0,0,,Bundan vazgeçersem tekrar eziğin teki olurum.
+Dialogue: 0,0:17:06.94,0:17:08.11,Default,,0,0,0,,Her anlamda.
+Dialogue: 0,0:17:08.90,0:17:12.11,Default,,0,0,0,,Pes eden biri olmayacağım artık!
+Dialogue: 0,0:17:12.20,0:17:13.78,Default,,0,0,0,,Sonuna kadar gideceğim!
+Dialogue: 0,0:17:15.53,0:17:18.79,Default,,0,0,0,,Öncelikle şunu diyeyim, bana güvenme.
+Dialogue: 0,0:17:18.87,0:17:20.83,Default,,0,0,0,,Ben ceset toplamam.
+Dialogue: 0,0:17:21.79,0:17:25.13,Default,,0,0,0,,Bununla beraber düşüncem şöyle;
+Dialogue: 0,0:17:25.21,0:17:28.21,Default,,0,0,0,,teröristler bu mumyalaşmış cesedi arıyorsa
+Dialogue: 0,0:17:28.30,0:17:30.67,Default,,0,0,0,,bir yerlerde kayıtlara girilmiş olmalı.
+Dialogue: 0,0:17:31.38,0:17:34.05,Default,,0,0,0,,Muhtemelen bir azizin cesedi.
+Dialogue: 0,0:17:34.89,0:17:38.02,Default,,0,0,0,,Gyro! Bildiğin bir şey var, değil mi?
+Dialogue: 0,0:17:38.10,0:17:40.02,Default,,0,0,0,,Sakin ol bakalım meraklı Melahat!
+Dialogue: 0,0:17:40.10,0:17:42.69,Default,,0,0,0,,Dedim ya, bu sadece benim yorumum!
+Dialogue: 0,0:17:42.77,0:17:46.52,Default,,0,0,0,,Sen, insanların söylediklerinin yarısını\N dinleyip eleştiren tiplerden misin?
+Dialogue: 0,0:17:47.73,0:17:49.40,Default,,0,0,0,,Movēre Crūs.
+Dialogue: 0,0:17:49.49,0:17:53.03,Default,,0,0,0,,Bu Latince. "Bacaklarını hareket ettir" demek.
+Dialogue: 0,0:17:53.74,0:17:55.03,Default,,0,0,0,,Latince mi?
+Dialogue: 0,0:17:55.12,0:17:59.50,Default,,0,0,0,,Bir insan nasıl aziz olur, biliyor musun?
+Dialogue: 0,0:18:00.41,0:18:02.96,Default,,0,0,0,,Meryem Ana ya da Aziz Petrus gibi mi?
+Dialogue: 0,0:18:03.58,0:18:07.59,Default,,0,0,0,,Bir aziz, öldükten sonra mucizeler yaratan biri demektir.
+Dialogue: 0,0:18:08.38,0:18:10.17,Default,,0,0,0,,Dinle. Tekrar söylüyorum.
+Dialogue: 0,0:18:10.26,0:18:11.80,Default,,0,0,0,,Öldükten sonra.
+Dialogue: 0,0:18:11.88,0:18:14.80,Default,,0,0,0,,Vatikan'a göre bu böyledir.
+Dialogue: 0,0:18:14.89,0:18:19.72,Default,,0,0,0,,Bir aziz olmak için öldükten sonra iki mucize yaratmış olmak gerekir.
+Dialogue: 0,0:18:20.52,0:18:23.14,Default,,0,0,0,,Bir azizin cesedi öldükten sonra yüz yıllarca bile çürümez
+Dialogue: 0,0:18:23.23,0:18:24.94,Default,,0,0,0,,ve inanılmaz güçleri vardır.
+Dialogue: 0,0:18:25.02,0:18:28.40,Default,,0,0,0,,Bu dünyada 1000 yıldan uzun süre varlığını sürdüren tek devletler
+Dialogue: 0,0:18:28.48,0:18:30.44,Default,,0,0,0,,Venedik ve Vatikan'dır.
+Dialogue: 0,0:18:30.53,0:18:33.65,Default,,0,0,0,,Bunun sebebinin her birinde bir azizin cesedi olduğu söylenir.
+Dialogue: 0,0:18:34.40,0:18:37.66,Default,,0,0,0,,Bin yıllık ihtişam ve güç vaadi.
+Dialogue: 0,0:18:38.16,0:18:42.12,Default,,0,0,0,,Durum buysa her ülke bunu ister.
+Dialogue: 0,0:18:42.20,0:18:43.54,Default,,0,0,0,,Ve diyelim ki
+Dialogue: 0,0:18:44.62,0:18:47.71,Default,,0,0,0,,azizlerden bile öte bir varlıksa...
+Dialogue: 0,0:18:49.96,0:18:51.42,Default,,0,0,0,,Yoksa...
+Dialogue: 0,0:18:51.51,0:18:53.63,Default,,0,0,0,,Bir aziz mi?
+Dialogue: 0,0:18:54.47,0:18:58.55,Default,,0,0,0,,Tırnaklarım döndü. Hareket etmeyen bacağım haraket etti.
+Dialogue: 0,0:18:58.64,0:19:01.56,Default,,0,0,0,,Bu şimdiden iki mucize demektir.
+Dialogue: 0,0:19:01.64,0:19:05.94,Default,,0,0,0,,Vatikan Meydanı'nda yapsaydın o mumya kesinlikle aziz ilan edilirdi.
+Dialogue: 0,0:19:06.02,0:19:09.02,Default,,0,0,0,,Ama dur. Burası Yeni Dünya!
+Dialogue: 0,0:19:09.11,0:19:11.44,Default,,0,0,0,,Amerika'ya gelmeyi başarmış bir aziz var mı?
+Dialogue: 0,0:19:11.53,0:19:13.65,Default,,0,0,0,,Ve neden bu kıtaya dağılmış?
+Dialogue: 0,0:19:13.74,0:19:17.32,Default,,0,0,0,,Ülkemde araştırtırsam öğrenebiliriz.
+Dialogue: 0,0:19:17.41,0:19:20.66,Default,,0,0,0,,Azizler birçok insanın iyiliği için vardır.
+Dialogue: 0,0:19:20.74,0:19:24.25,Default,,0,0,0,,Geçmişte kaybolup gitmezler.
+Dialogue: 0,0:19:24.33,0:19:26.00,Default,,0,0,0,,Mutlaka kayıtlar vardır.
+Dialogue: 0,0:19:26.08,0:19:30.59,Default,,0,0,0,,Demek istediğim şey şu; istersen o cesedi toplayabilirsin, sana kalmış.
+Dialogue: 0,0:19:30.67,0:19:34.05,Default,,0,0,0,,Ama ben bu yarışı birinci olarak bitireceğim.
+Dialogue: 0,0:19:34.13,0:19:37.34,Default,,0,0,0,,Sen ikinci olacaksın. Anlaşmamızı unutma.
+Dialogue: 0,0:19:38.14,0:19:40.18,Default,,0,0,0,,Bunu kabul ediyorsan Johnny
+Dialogue: 0,0:19:40.26,0:19:42.93,Default,,0,0,0,,benimle gelmene izin veririm.
+Dialogue: 0,0:19:45.35,0:19:50.40,Default,,0,0,0,,Hadi gidelim! Monument Vadisi ve yarışın üçüncü etabına!
+Dialogue: 0,0:19:56.11,0:19:57.49,Default,,0,0,0,,Bu...
+Dialogue: 0,0:19:57.57,0:20:00.12,Default,,0,0,0,,Johnny, acele et! Dio ve Sand Man geliyor!
+Dialogue: 0,0:20:02.08,0:20:04.41,Default,,0,0,0,,Geliyorlar! İkinci etabın bitişine!
+Dialogue: 0,0:20:04.49,0:20:06.41,Default,,0,0,0,,Burada, Monument Vadisi'nde
+Dialogue: 0,0:20:06.50,0:20:10.88,Default,,0,0,0,,halk sonucu görmek için toplandı.
+Dialogue: 0,0:20:11.38,0:20:12.96,Default,,0,0,0,,Diego önde.
+Dialogue: 0,0:20:13.05,0:20:15.17,Default,,0,0,0,,Arkasındaki Sand Man. Ardından Gyro Zeppeli.
+Dialogue: 0,0:20:15.26,0:20:18.51,Default,,0,0,0,,Ve ilk etabı beşinci olarak bitiren Johnny Joestar.
+Dialogue: 0,0:20:19.01,0:20:22.47,Default,,0,0,0,,Başlangıçtan bu yana 18 gün geçti ve 750 mil aşıldı.
+Dialogue: 0,0:20:22.55,0:20:24.51,Default,,0,0,0,,Monument Vadisi'ne ulaştıkları sırada
+Dialogue: 0,0:20:24.60,0:20:27.98,Default,,0,0,0,,önde gidenler arayı açmış durumda.
+Dialogue: 0,0:20:28.06,0:20:30.90,Default,,0,0,0,,Gyro hızlandı! 600 yarda kaldı!
+Dialogue: 0,0:20:30.98,0:20:33.15,Default,,0,0,0,,Diego Brando da hızlanmaya başladı!
+Dialogue: 0,0:20:33.23,0:20:36.24,Default,,0,0,0,,Sand man İnanılmaz bir hızla çölü aşıyor!
+Dialogue: 0,0:20:38.28,0:20:39.32,Default,,0,0,0,,Bu...
+Dialogue: 0,0:20:39.40,0:20:41.91,Default,,0,0,0,,Doğru. Bu demek...
+Dialogue: 0,0:20:41.99,0:20:43.83,Default,,0,0,0,,Gyro! Hey, şuna bak!
+Dialogue: 0,0:20:43.91,0:20:47.04,Default,,0,0,0,,Bunu kazanabiliriz Johnny. Bu etabı kazanabiliriz!
+Dialogue: 0,0:20:47.12,0:20:49.96,Default,,0,0,0,,Sen de hızlan!
+Dialogue: 0,0:20:50.04,0:20:51.75,Default,,0,0,0,,Hayır, öyle değil, çözdüm!
+Dialogue: 0,0:20:51.83,0:20:53.00,Default,,0,0,0,,Kolumdaki sembolün anlamını
+Dialogue: 0,0:20:53.09,0:20:54.84,Default,,0,0,0,,-Ve bir sonraki parçanın yerini! -Ne?
+Dialogue: 0,0:20:55.38,0:20:56.80,Default,,0,0,0,,Çizginin öbür tarafına geçti!
+Dialogue: 0,0:20:56.88,0:20:59.76,Default,,0,0,0,,Diego Brando birinci oldu. Johnny Joestar ikinci.
+Dialogue: 0,0:20:59.84,0:21:02.93,Default,,0,0,0,,Sand Man üçüncü. Gyro Zeppeli dördüncü.
+Dialogue: 0,0:21:04.18,0:21:08.18,Default,,0,0,0,,Ne diyorsun sen Johnny? Neden benden önce varış çizgisine ulaştın?
+Dialogue: 0,0:21:08.27,0:21:10.44,Default,,0,0,0,,Olamaz... Hayır, dur!
+Dialogue: 0,0:21:11.10,0:21:12.15,Default,,0,0,0,,Lan, Johnny!
+Dialogue: 0,0:21:12.23,0:21:14.73,Default,,0,0,0,,Beni beklesene lan şerefsiz!
+Dialogue: 0,0:21:17.15,0:21:18.28,Default,,0,0,0,,Bu ne?
+Dialogue: 0,0:21:18.36,0:21:22.07,Default,,0,0,0,,Görmüyor musun? Üçüncü etabın fotoğrafı.
+Dialogue: 0,0:21:22.16,0:21:24.53,Default,,0,0,0,,Dağın şekli aynı.
+Dialogue: 0,0:21:26.58,0:21:28.75,Default,,0,0,0,,Bu işaretler harf değil.
+Dialogue: 0,0:21:28.83,0:21:32.25,Default,,0,0,0,,Bir yeri simgeliyor. Nereye gideceğimiz söylüyor.
+Dialogue: 0,0:21:33.67,0:21:36.55,Default,,0,0,0,,Bir sonraki parçanın dağda olduğuna eminim.
+Dialogue: 0,0:21:40.09,0:21:43.97,Default,,0,0,0,,Bamboo Hat Kid bu kumaşı sıkıca kavramış hâlde yere yığılmıştı.
+Dialogue: 0,0:21:44.05,0:21:49.43,Default,,0,0,0,,Nedense üstünde bu yanık izi var. \NLatince 'bacaklarını hareket ettir' demek.
+Dialogue: 0,0:21:49.52,0:21:53.65,Default,,0,0,0,,Olay yerindeki durumdan anlaşıldığı kadarıyla cesedi saklayan
+Dialogue: 0,0:21:53.73,0:21:55.94,Default,,0,0,0,,Gyro değil, Johnny Joestar.
+Dialogue: 0,0:21:56.02,0:21:58.57,Default,,0,0,0,,Hangi parçayı bulduklarını bilmiyoruz.
+Dialogue: 0,0:21:59.78,0:22:01.49,Default,,0,0,0,,-Kolu. -Efendim?
+Dialogue: 0,0:22:01.57,0:22:03.03,Default,,0,0,0,,İyi dinle.
+Dialogue: 0,0:22:03.11,0:22:07.58,Default,,0,0,0,,Bamboo Hat Kid bu kumaş parçasını cesede sarmış.
+Dialogue: 0,0:22:07.66,0:22:08.70,Default,,0,0,0,,Tıpkı şöyle.
+Dialogue: 0,0:22:09.37,0:22:12.91,Default,,0,0,0,,Kalınlığa bakılırsa kol olduğu kesin.
+Dialogue: 0,0:22:13.00,0:22:15.46,Default,,0,0,0,,Cesedin yaydığı enerji yüzünden de
+Dialogue: 0,0:22:15.54,0:22:17.67,Default,,0,0,0,,Kumaş yanmış.
+Dialogue: 0,0:22:18.25,0:22:21.01,Default,,0,0,0,,Bunu sadece o ceset parçaları yapabilir.
+Dialogue: 0,0:22:21.09,0:22:23.43,Default,,0,0,0,,Ve bunlar harf değil.
+Dialogue: 0,0:22:23.51,0:22:26.47,Default,,0,0,0,,Acaba bir konuma işaret ediyor olabilir mi?
+Dialogue: 0,0:22:27.26,0:22:29.14,Default,,0,0,0,,Hep öyle olduğunu düşündüm.
+Dialogue: 0,0:22:29.22,0:22:33.35,Default,,0,0,0,,Ama bunların ne anlama geldiğini hiç anlamadım.
+Dialogue: 0,0:22:33.44,0:22:36.69,Default,,0,0,0,,Bunu hep düşünürüm.
+Dialogue: 0,0:22:37.36,0:22:39.98,Default,,0,0,0,,Atemealı Yusuf'un haritasına göre
+Dialogue: 0,0:22:40.07,0:22:44.49,Default,,0,0,0,,ceset toplam dokuz parçaya bölünmüş ve araziye dağılmış.
+Dialogue: 0,0:22:44.99,0:22:47.12,Default,,0,0,0,,Bununla beraber iki parçayı bulmuş olduk.
+Dialogue: 0,0:22:47.20,0:22:50.54,Default,,0,0,0,,İçimdeki kalp bunlardan biri.
+Dialogue: 0,0:23:06.05,0:23:08.89,Default,,0,0,0,,O gördüğüm şey... Göğsü...
+Dialogue: 0,0:23:09.76,0:23:14.77,Default,,0,0,0,,İzlediğiniz için teşekkür ederiz: Lumina Subs
+Dialogue: 0,0:23:14.85,0:23:18.27,Default,,0,0,0,,Üçüncü etap başlamak üzere!
+Dialogue: 0,0:23:18.40,0:23:22.48,Default,,0,0,0,,Bu uzun soluklu mücadelede önemli olan, hızdan çok dayanıklılık!
+Dialogue: 0,0:23:22.57,0:23:25.99,Default,,0,0,0,,Belki de bu yüzden başlangıç nispeten sakin geçecek gibi görünüyor.
+Dialogue: 0,0:23:26.53,0:23:28.03,Default,,0,0,0,,Gyro Zeppeli…
+Dialogue: 0,0:23:28.12,0:23:31.45,Default,,0,0,0,,Sana yardım etmek için bir şey yapamam.
+Dialogue: 0,0:23:32.54,0:23:34.45,Default,,0,0,0,,Ve çıktılar!
